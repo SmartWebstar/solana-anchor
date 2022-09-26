@@ -1,0 +1,8 @@
+{
+  "name": "@project-serum/monorepo",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "tests"
+  ]
+}
